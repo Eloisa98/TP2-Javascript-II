@@ -39,5 +39,5 @@ Verifique se uma string é um palíndromo (lê-se igual de frente para trás e v
 ## 🚀 Como Executar os Exercícios
 
 1. Clone o repositório:
-   ```bash
+   bash
    git clone https://github.com/seu-usuario/exercicios-javascript.git
