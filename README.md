@@ -40,4 +40,4 @@ Verifique se uma string é um palíndromo (lê-se igual de frente para trás e v
 
 1. Clone o repositório:
    bash
-   git clone https://github.com/seu-usuario/exercicios-javascript.git
+   git clone https://github.com/Eloisa98/TP2-Javascript-II.git
